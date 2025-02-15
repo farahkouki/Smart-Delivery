@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/Commande/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/Fournisseur/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/Restaurant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/annonce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/eurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/gatway/src/main/java" charset="UTF-8" />
+  </component>
+</project>

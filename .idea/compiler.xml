@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annonce" />
+        <module name="Restaurant" />
+        <module name="Commande" />
+        <module name="Fournisseur" />
+        <module name="gatway" />
+        <module name="eurekaServer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Commande" options="-parameters" />
+      <module name="Fournisseur" options="-parameters" />
+      <module name="Restaurant" options="-parameters" />
+      <module name="annonce" options="-parameters" />
+      <module name="eurekaServer" options="-parameters" />
+      <module name="gatway" options="-parameters" />
+    </option>
+  </component>
+</project>
