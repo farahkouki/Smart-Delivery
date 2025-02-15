@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/projetSAE9-main/projetSAE9-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Smart DElivery/projetSAE9-main" vcs="Git" />
   </component>
 </project>

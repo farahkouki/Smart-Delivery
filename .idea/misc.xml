@@ -10,6 +10,12 @@
         <option value="$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/Restaurant/pom.xml" />
         <option value="$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/Fournisseur/pom.xml" />
         <option value="$PROJECT_DIR$/projetSAE9-main/projetSAE9-main/microservices/eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/Commande/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/Fournisseur/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/Restaurant/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/annonce/pom.xml" />
+        <option value="$PROJECT_DIR$/Smart DElivery/projetSAE9-main/microservices/eurekaServer/pom.xml" />
       </list>
     </option>
   </component>

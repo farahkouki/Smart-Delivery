@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="annonce" />
         <module name="Restaurant" />
+        <module name="annonce" />
         <module name="Commande" />
         <module name="Fournisseur" />
         <module name="gatway" />
