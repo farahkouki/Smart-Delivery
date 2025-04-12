@@ -36,7 +36,7 @@ graph TD
   A[Client] --> B[API Gateway]
   B --> C[Service CommandeetFournisseur] 
   B --> D[Service Notification]
-  C --> E[(BD Commande)]
+  C --> E[(BD CommandeetFournisseur)]
   D --> F[WebSockets]
   G[Python Scraper] --> H[Service Livreur]
   H --> I[OpenStreetMap]
