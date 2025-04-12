@@ -34,7 +34,7 @@
 ```mermaid
 graph TD
   A[Client] --> B[API Gateway]
-  B --> C[Service Commande] et [service Fournisseur]
+  B --> C[Service CommandeetFournisseur] 
   B --> D[Service Notification]
   C --> E[(BD Commande)]
   D --> F[WebSockets]
